@@ -150,5 +150,6 @@ per-task routing and local persistence.
 
 <p align="center">
   <a href="https://tarasov-artem.netlify.app"><img src="https://img.shields.io/badge/Website-0F3D2E?style=for-the-badge&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/artem-tarasov-466a72356/"><img src="https://img.shields.io/badge/LinkedIn-13291F?style=for-the-badge&logo=linkedin&logoColor=D4AF6A" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-13291F?style=for-the-badge&logo=gmail&logoColor=D4AF6A" alt="Email"/></a>
 </p>
