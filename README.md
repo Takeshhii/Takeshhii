@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Takeshhii/artem-portfolio/main/images/artem-photo.jpg" width="96" style="border-radius:50%" alt="Artem" />
+  <img src="https://raw.githubusercontent.com/Takeshhii/artem-portfolio/main/images/artem-photo.jpg" width="96" alt="Artem" />
 </p>
 
 <p align="center">
@@ -13,36 +13,113 @@ including in the US — and I've been moving into building the automation and<br
 AI systems that growth work increasingly runs on.
 </p>
 
-<br/>
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
-## What I work on
+## ✳ What I work on
 
 - Automation systems that connect LLMs, APIs and content/publishing workflows
 - Technical SEO and SEO automation
 - Small products built and shipped end-to-end, not just prototyped
 - Currently building **AIRA**, an AI career-assistant product for students
 
-## Selected projects
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
-- **[AIRA](https://my-student-aira.com)** — AI career-assistant product for students I'm building: a job-search dashboard with HH.ru integration, saved vacancies and application notes. Live product; source isn't public yet.
-- **[ai-wordpress-publisher](https://github.com/Takeshhii/ai-wordpress-publisher)** — LLM content pipeline that generates and auto-publishes SEO articles to WordPress on a controlled schedule. Runs the content side of AIRA and an NFC-products business off one config.
-- **[bottle-label-studio](https://github.com/Takeshhii/bottle-label-studio)** — Browser tool that composites product labels onto bottle photos with physically-based warp and shading, replacing manual reshoots.
-- **[nfc-msk-theme](https://github.com/Takeshhii/nfc-msk-theme)** — Custom WordPress theme with technical SEO infrastructure built in (redirects, indexation control) for a business I run.
-- **[conversion-collective](https://github.com/Takeshhii/conversion-collective)** — Conversion-focused site built for a B2B sales-consulting business.
-- **[ZHIVA](https://zhivajewelry.com)** — Live Shopify jewelry store; I handle SEO and content — product/collection copy, structured content, on-page optimization.
+## ✳ Selected projects
 
-## Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
+### [AIRA →](https://my-student-aira.com)
+
+AI career-assistant product for students I'm building: a job-search dashboard
+with HH.ru integration, saved vacancies and application notes.
+
+`Live product` · `source not public yet`
+
+</td>
+<td width="50%" valign="top">
+
+### [ai-wordpress-publisher →](https://github.com/Takeshhii/ai-wordpress-publisher)
+
+LLM content pipeline that generates and auto-publishes SEO articles to
+WordPress on a controlled schedule. Runs the content side of AIRA and an
+NFC-products business off one config.
+
+`Python` · `Claude CLI` · `WordPress REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [bottle-label-studio →](https://github.com/Takeshhii/bottle-label-studio)
+
+Browser tool that composites product labels onto bottle photos with
+physically-based warp and shading, replacing manual reshoots.
+
+`React` · `TypeScript` · `PixiJS`
+
+</td>
+<td width="50%" valign="top">
+
+### [nfc-msk-theme →](https://github.com/Takeshhii/nfc-msk-theme)
+
+Custom WordPress theme with technical SEO infrastructure built in
+(redirects, indexation control) for an NFC-products business I run.
+
+`PHP` · `WordPress` · `technical SEO`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [conversion-collective →](https://github.com/Takeshhii/conversion-collective)
+
+Conversion-focused site built for a B2B sales-consulting business — dark,
+editorial, built around one booking flow.
+
+`HTML/CSS/JS` · `analytics`
+
+</td>
+<td width="50%" valign="top">
+
+### [ZHIVA →](https://zhivajewelry.com)
+
+Live Shopify jewelry store; I handle SEO and content — product/collection
+copy, structured content, on-page optimization.
+
+`Shopify` · `SEO` · `content`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
+
+## ✳ Stack
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, WordPress, PHP, LLM APIs, SEO, Automation, Shopify" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,wordpress,php,postgres,git&theme=dark" alt="Stack icons" />
 </p>
 
-Python · TypeScript / JavaScript · React · Next.js · WordPress / PHP · LLM APIs · workflow automation
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
-## Links
-
-<p align="left">
-  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-CF8264?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-2A241F?style=for-the-badge&logo=gmail&logoColor=CF8264" alt="Email"/></a>
+<p align="center">
+  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-CF8264?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-2A241F?style=for-the-badge&logo=gmail&logoColor=CF8264" alt="Email"/></a>&nbsp;
   <a href="https://t.me/natemeadmin"><img src="https://img.shields.io/badge/Telegram-2A241F?style=for-the-badge&logo=telegram&logoColor=CF8264" alt="Telegram"/></a>
 </p>

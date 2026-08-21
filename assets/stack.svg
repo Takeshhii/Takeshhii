@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="64" viewBox="0 0 900 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="strip"><rect x="0" y="0" width="900" height="64" rx="14"/></clipPath>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#100E0C"/>
+      <stop offset="100%" stop-color="#100E0C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#100E0C" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#100E0C"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#strip)">
+    <rect x="0" y="0" width="900" height="64" fill="#100E0C"/>
+
+    <g font-family="Menlo, Consolas, monospace" font-size="20" fill="#ABA299">
+      <text x="0" y="39" textLength="1400" lengthAdjust="spacing">Python <tspan fill="#CF8264">✦</tspan> TypeScript <tspan fill="#CF8264">✦</tspan> React <tspan fill="#CF8264">✦</tspan> Next.js <tspan fill="#CF8264">✦</tspan> WordPress <tspan fill="#CF8264">✦</tspan> PHP <tspan fill="#CF8264">✦</tspan> LLM APIs <tspan fill="#CF8264">✦</tspan> SEO <tspan fill="#CF8264">✦</tspan> Automation <tspan fill="#CF8264">✦</tspan> Shopify <tspan fill="#CF8264">✦</tspan> </text>
+      <text x="1400" y="39" textLength="1400" lengthAdjust="spacing">Python <tspan fill="#CF8264">✦</tspan> TypeScript <tspan fill="#CF8264">✦</tspan> React <tspan fill="#CF8264">✦</tspan> Next.js <tspan fill="#CF8264">✦</tspan> WordPress <tspan fill="#CF8264">✦</tspan> PHP <tspan fill="#CF8264">✦</tspan> LLM APIs <tspan fill="#CF8264">✦</tspan> SEO <tspan fill="#CF8264">✦</tspan> Automation <tspan fill="#CF8264">✦</tspan> Shopify <tspan fill="#CF8264">✦</tspan> </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -1400 0" dur="34s" repeatCount="indefinite"/>
+    </g>
+
+    <rect x="0" y="0" width="70" height="64" fill="url(#fadeL)"/>
+    <rect x="830" y="0" width="70" height="64" fill="url(#fadeR)"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="63" rx="14" fill="none" stroke="#2A241F"/>
+</svg>
