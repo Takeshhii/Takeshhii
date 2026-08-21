@@ -20,6 +20,7 @@ AI systems that growth work increasingly runs on.
 
 ## Selected projects
 
+- **[AIRA](https://my-student-aira.com)** — AI career-assistant product for students I'm building: a job-search dashboard with HH.ru integration, saved vacancies and application notes. Live product; source isn't public yet.
 - **[ai-wordpress-publisher](https://github.com/Takeshhii/ai-wordpress-publisher)** — LLM content pipeline that generates and auto-publishes SEO articles to WordPress on a controlled schedule. Runs the content side of AIRA and an NFC-products business off one config.
 - **[bottle-label-studio](https://github.com/Takeshhii/bottle-label-studio)** — Browser tool that composites product labels onto bottle photos with physically-based warp and shading, replacing manual reshoots.
 - **[nfc-msk-theme](https://github.com/Takeshhii/nfc-msk-theme)** — Custom WordPress theme with technical SEO infrastructure built in (redirects, indexation control) for a business I run.
