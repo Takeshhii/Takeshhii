@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Takeshhii/artem-portfolio/main/images/artem-photo.jpg" width="96" alt="Artem" />
+  <img src="assets/photo.jpg" width="110" alt="Artem" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ AI systems that growth work increasingly runs on.
   <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## ✳ What I work on
+## What I work on
 
 - Automation systems that connect LLMs, APIs and content/publishing workflows
 - Technical SEO and SEO automation
@@ -28,7 +28,7 @@ AI systems that growth work increasingly runs on.
   <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## ✳ Selected projects
+## Selected projects
 
 <table>
 <tr>
@@ -104,7 +104,7 @@ copy, structured content, on-page optimization.
   <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## ✳ Stack
+## Stack
 
 <p align="center">
   <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, WordPress, PHP, LLM APIs, SEO, Automation, Shopify" />
@@ -119,7 +119,7 @@ copy, structured content, on-page optimization.
 </p>
 
 <p align="center">
-  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-CF8264?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;
-  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-2A241F?style=for-the-badge&logo=gmail&logoColor=CF8264" alt="Email"/></a>&nbsp;
-  <a href="https://t.me/natemeadmin"><img src="https://img.shields.io/badge/Telegram-2A241F?style=for-the-badge&logo=telegram&logoColor=CF8264" alt="Telegram"/></a>
+  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F3D2E?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-13291F?style=for-the-badge&logo=gmail&logoColor=D4AF6A" alt="Email"/></a>&nbsp;
+  <a href="https://t.me/natemeadmin"><img src="https://img.shields.io/badge/Telegram-13291F?style=for-the-badge&logo=telegram&logoColor=D4AF6A" alt="Telegram"/></a>
 </p>
