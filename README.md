@@ -1,15 +1,19 @@
-<img src="https://raw.githubusercontent.com/Takeshhii/artem-portfolio/main/images/artem-photo.jpg" width="120" align="left" style="margin-right: 20px; border-radius: 8px;" alt="Artem Tarasov" />
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Artem Tarasov — AI Growth, Automation & Product" />
+</p>
 
-# Artem Tarasov
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Takeshhii/artem-portfolio/main/images/artem-photo.jpg" width="96" style="border-radius:50%" alt="Artem" />
+</p>
 
-**AI Growth, Automation & Product**
-
-I work at the intersection of growth, AI and software. My background is in SEO
-and digital growth — technical audits, content systems, work with clients
-including in the US — and I've been moving into building the automation and
+<p align="center">
+I work at the intersection of growth, AI and software. My background is in SEO<br/>
+and digital growth — technical audits, content systems, work with clients<br/>
+including in the US — and I've been moving into building the automation and<br/>
 AI systems that growth work increasingly runs on.
+</p>
 
-<br clear="left"/>
+<br/>
 
 ## What I work on
 
@@ -25,14 +29,20 @@ AI systems that growth work increasingly runs on.
 - **[bottle-label-studio](https://github.com/Takeshhii/bottle-label-studio)** — Browser tool that composites product labels onto bottle photos with physically-based warp and shading, replacing manual reshoots.
 - **[nfc-msk-theme](https://github.com/Takeshhii/nfc-msk-theme)** — Custom WordPress theme with technical SEO infrastructure built in (redirects, indexation control) for a business I run.
 - **[conversion-collective](https://github.com/Takeshhii/conversion-collective)** — Conversion-focused site built for a B2B sales-consulting business.
+- **[ZHIVA](https://zhivajewelry.com)** — Live Shopify jewelry store; I handle SEO and content — product/collection copy, structured content, on-page optimization.
 
 ## Stack
 
-Python · TypeScript / JavaScript · React · WordPress / PHP · LLM APIs ·
-workflow automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,wordpress,php,postgres,git&theme=dark" alt="Stack icons" />
+</p>
+
+Python · TypeScript / JavaScript · React · Next.js · WordPress / PHP · LLM APIs · workflow automation
 
 ## Links
 
-- Portfolio: [takeshhii.github.io/artem-portfolio](https://takeshhii.github.io/artem-portfolio/)
-- Email: [tarasovao2005@gmail.com](mailto:tarasovao2005@gmail.com)
-- Telegram: [@natemeadmin](https://t.me/natemeadmin)
+<p align="left">
+  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-CF8264?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-2A241F?style=for-the-badge&logo=gmail&logoColor=CF8264" alt="Email"/></a>
+  <a href="https://t.me/natemeadmin"><img src="https://img.shields.io/badge/Telegram-2A241F?style=for-the-badge&logo=telegram&logoColor=CF8264" alt="Telegram"/></a>
+</p>
