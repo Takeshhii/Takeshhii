@@ -1,135 +1,115 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Manrope&size=26&duration=3000&pause=1200&color=CF8264&center=true&vCenter=true&width=600&lines=Artem+Tarasov;SEO+Specialist;Web+Developer;AI+Startup+Founder+%40+AIRA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Manrope&size=26&duration=3000&pause=1200&color=CF8264&center=true&vCenter=true&width=600&lines=Artem+Tarasov;SEO+Specialist;Web+Developer;Building+AIRA" alt="Typing SVG" />
 
-### SEO · Web Development · AI Products — Moscow, Russia
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-live-CF8264?style=for-the-badge)](https://takeshhii.github.io/artem-portfolio/)
-[![Telegram](https://img.shields.io/badge/Telegram-@natemeadmin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natemeadmin)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarasovao2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-CF8264?style=flat-square)](https://takeshhii.github.io/artem-portfolio/)
+[![Telegram](https://img.shields.io/badge/Telegram-@natemeadmin-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/natemeadmin)
+[![Email](https://img.shields.io/badge/Email-tarasovao2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarasovao2005@gmail.com)
 
 </div>
 
----
+Hey, I'm Artem. Moscow, studying at the Financial University, and spending most
+of my actual time on **AIRA** — an AI career-assistant startup I'm building for
+students (resumes, job applications, interview prep). Outside of that I do SEO
+and web dev work, mostly for a handful of real sites I run myself or for family.
 
-## About
+I'm not a "I know 20 frameworks" kind of profile — I'd rather ship four projects
+that actually run in production than twenty tutorials nobody uses. Everything
+pinned below is a live site or a tool I use regularly, not a bootcamp exercise.
 
-I work at the intersection of **SEO, web development and AI product building**.
-Student at the Financial University (Moscow), resident of a business incubator,
-and founder of **AIRA** — an AI career assistant that helps students with resumes,
-job applications and interview prep.
+## What's actually here
 
-- 🔍 **SEO** — technical audits, semantics, Google Search Console, Yandex.Metrica
-- 💻 **Web dev** — Next.js, React, TypeScript, Tailwind CSS, WordPress, Bitrix
-- 🤖 **AI / automation** — LLM-driven content pipelines, prompt engineering, product automation
-- 📈 **Marketing** — B2B outreach, email campaigns, product analytics
+**[ai-wordpress-publisher](https://github.com/Takeshhii/ai-wordpress-publisher)**
+— the one I'm most proud of. A Python pipeline that takes a keyword brief,
+writes the article through the Claude CLI with proper Yoast SEO metadata, and
+**auto-publishes it straight into WordPress** on a controlled daily schedule —
+no copy-pasting, no manual scheduling. It runs both of my content sites (AIRA
+and nfc-msk.ru) off one config. Used it to plan and schedule 100 articles from
+briefs alone.
 
----
+**[artem-portfolio](https://github.com/Takeshhii/artem-portfolio)** — this
+profile's portfolio, [live here](https://takeshhii.github.io/artem-portfolio/).
+Bilingual, vanilla HTML/CSS/JS, zero build step.
 
-## Featured projects
+**[nfc-msk-theme](https://github.com/Takeshhii/nfc-msk-theme)** — the
+WordPress theme behind nfc-msk.ru, my NFC-products business. Built from
+scratch, no parent theme, no page builder.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[bottle-label-studio](https://github.com/Takeshhii/bottle-label-studio)** —
+a browser tool I built to stop re-shooting product photos every time a label
+design changes. Warps a label onto a real bottle photo with correct curvature
+and real borrowed shading — React + PixiJS.
 
-### 🤖 [AI WordPress Content Pipeline](https://github.com/Takeshhii/ai-wordpress-publisher)
-Resumable Python pipeline: keyword briefs → Claude-generated SEO articles →
-scheduled WordPress publishing with Yoast meta and a controlled daily pace.
-Built for **AIRA** and an NFC-services site — planned and scheduled **100
-articles** from briefs alone.
+**[conversion-collective](https://github.com/Takeshhii/conversion-collective)**
+— site I built for my sister's B2B sales-consulting business, [live
+here](https://takeshhii.github.io/conversion-collective/). Dark, editorial,
+"McKinsey meets Vogue."
 
-`Python` `Claude CLI` `WordPress REST API` `Yoast SEO`
+## What I actually work with
 
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [Personal Portfolio](https://github.com/Takeshhii/artem-portfolio)
-Bilingual (RU/EN) portfolio site — case studies, gallery, career timeline and a
-one-click printable résumé. Vanilla HTML/CSS/JS, zero build step, zero dependencies.
-
-`HTML5` `CSS3` `JavaScript`  ·  [**Live →**](https://takeshhii.github.io/artem-portfolio/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍾 [Bottle Label Studio](https://github.com/Takeshhii/bottle-label-studio)
-Client-side tool that warps a label onto a blank bottle photo with realistic
-cylindrical curvature and shading borrowed from the photo itself — instant
-product mockups, no reshoot per label variant.
-
-`React` `TypeScript` `PixiJS v8` `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏷️ [NFC MSK — WordPress Theme](https://github.com/Takeshhii/nfc-msk-theme)
-Standalone WordPress theme built from scratch for an NFC-products business —
-no parent theme, no page builder, no JS libraries — with a full product
-catalog and built-in SEO plumbing.
-
-`PHP` `WordPress` `Vanilla CSS/JS`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bitrix](https://img.shields.io/badge/-1C--Bitrix-0087C6?style=flat-square)
-![Claude](https://img.shields.io/badge/-Claude%20%2F%20LLM-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## GitHub stats
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Python` `PHP` `WordPress`
+`Bitrix` — plus prompt engineering / LLM pipelines for the automation stuff, and
+technical SEO (audits, Search Console, Yandex.Metrica) on the marketing side.
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Takeshhii&show_icons=true&theme=transparent&hide_border=true&title_color=CF8264&icon_color=CF8264&text_color=ABA299" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshhii&layout=compact&theme=transparent&hide_border=true&title_color=CF8264&text_color=ABA299&langs_count=8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Takeshhii&show_icons=true&theme=transparent&hide_border=true&title_color=CF8264&icon_color=CF8264&text_color=ABA299" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshhii&layout=compact&theme=transparent&hide_border=true&title_color=CF8264&text_color=ABA299&langs_count=8" />
 </div>
 
 ---
 
 <div align="center">
 
-## Русская версия
-
-### SEO · Веб-разработка · AI-продукты — Москва
-
-Работаю на стыке **SEO, веб-разработки и AI-продуктов**. Студент Финансового
-университета (Москва), резидент бизнес-инкубатора, основатель **AIRA** —
-AI-ассистента поиска работы, который помогает студентам с резюме, откликами и
-подготовкой к собеседованиям.
+## На русском
 
 </div>
 
-- 🔍 **SEO** — технический аудит, семантика, Google Search Console, Яндекс.Метрика
-- 💻 **Веб-разработка** — Next.js, React, TypeScript, Tailwind CSS, WordPress, Bitrix
-- 🤖 **AI / автоматизация** — контент-пайплайны на LLM, prompt engineering, автоматизация продуктов
-- 📈 **Маркетинг** — B2B outreach, email-рассылки, продуктовая аналитика
+Привет, я Артём. Москва, учусь в Финансовом университете, но большую часть
+реального времени трачу на **AIRA** — свой стартап, AI-ассистент поиска работы
+для студентов (резюме, отклики, подготовка к собеседованиям). Помимо этого
+занимаюсь SEO и веб-разработкой — в основном на своих же проектах или семейных.
 
-### Проекты
+Я не из тех, кто пишет «знаю 20 фреймворков» — лучше покажу четыре проекта,
+которые реально работают в проде, чем двадцать учебных упражнений, которыми
+никто не пользуется. Всё, что закреплено ниже — либо живой сайт, либо
+инструмент, которым пользуюсь регулярно, а не студенческая работа.
 
-- **[AI WordPress Content Pipeline](https://github.com/Takeshhii/ai-wordpress-publisher)** — возобновляемый конвейер генерации и публикации SEO-статей через Claude CLI и WordPress REST API. Запланировано 100 статей для AIRA и NFC MSK.
-- **[Личное портфолио](https://github.com/Takeshhii/artem-portfolio)** — двуязычный (RU/EN) сайт-визитка без сборки. [Смотреть →](https://takeshhii.github.io/artem-portfolio/)
-- **[Bottle Label Studio](https://github.com/Takeshhii/bottle-label-studio)** — инструмент для реалистичного наложения этикеток на фото бутылок (React + PixiJS).
-- **[NFC MSK — тема WordPress](https://github.com/Takeshhii/nfc-msk-theme)** — самостоятельная премиальная тема для NFC-услуг, с нуля, без сторонних зависимостей.
+### Что здесь реально есть
+
+**[ai-wordpress-publisher](https://github.com/Takeshhii/ai-wordpress-publisher)**
+— тот, которым горжусь больше всего. Python-конвейер: бриф по ключевым словам
+на входе → статья с Yoast SEO-метой через Claude CLI → **автопубликация прямо в
+WordPress** по расписанию, без копипасты и ручного планирования. Ведёт оба моих
+контентных сайта (AIRA и nfc-msk.ru) из одного конфига. С его помощью
+запланировано 100 статей — только из брифов.
+
+**[artem-portfolio](https://github.com/Takeshhii/artem-portfolio)** — портфолио
+этого профиля, [смотреть тут](https://takeshhii.github.io/artem-portfolio/).
+Двуязычное, чистые HTML/CSS/JS, без сборки.
+
+**[nfc-msk-theme](https://github.com/Takeshhii/nfc-msk-theme)** — тема
+WordPress под nfc-msk.ru, мой бизнес NFC-товаров. С нуля, без родительской
+темы и конструктора.
+
+**[bottle-label-studio](https://github.com/Takeshhii/bottle-label-studio)** —
+инструмент, который сделал, чтобы не пересъёмки товарные фото при каждой смене
+дизайна этикетки. Накладывает этикетку на реальное фото бутылки с правильной
+кривизной и настоящими бликами/тенями — React + PixiJS.
+
+**[conversion-collective](https://github.com/Takeshhii/conversion-collective)**
+— сайт для консалтинга сестры по продажам, [смотреть
+тут](https://takeshhii.github.io/conversion-collective/). Тёмный, редакторский,
+«McKinsey скрещенный с Vogue».
+
+### С чем работаю
+
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Python` `PHP`
+`WordPress` `Bitrix` — плюс prompt engineering и LLM-конвейеры для
+автоматизации, и техническое SEO (аудиты, Search Console, Яндекс.Метрика) на
+маркетинговой стороне.
 
 <div align="center">
 
-📧 [tarasovao2005@gmail.com](mailto:tarasovao2005@gmail.com) · 💬 [@natemeadmin](https://t.me/natemeadmin) · 🌐 [Портфолио](https://takeshhii.github.io/artem-portfolio/)
+📧 [tarasovao2005@gmail.com](mailto:tarasovao2005@gmail.com) · 💬 [@natemeadmin](https://t.me/natemeadmin)
 
 </div>
