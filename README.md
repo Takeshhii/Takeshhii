@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Artem Tarasov — AI Growth, Automation & Product" />
+  <img src="assets/hero.svg" width="100%" alt="Artem Tarasov — AI Growth, Automation & Product" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ AI systems that growth work increasingly runs on.
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <img src="assets/line.svg" width="100%" alt="" />
 </p>
 
 ## What I work on
@@ -21,7 +21,7 @@ AI systems that growth work increasingly runs on.
 - Currently building **AIRA**, an AI career-assistant product for students
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <img src="assets/line.svg" width="100%" alt="" />
 </p>
 
 ## Selected projects
@@ -30,7 +30,7 @@ AI systems that growth work increasingly runs on.
 <tr>
 <td width="50%" valign="top">
 
-### [AIRA →](https://my-student-aira.com)
+### [AIRA →](https://student-aira.com)
 
 AI career-assistant product for students I'm building: a job-search dashboard
 with HH.ru integration, saved vacancies and application notes.
@@ -97,13 +97,13 @@ copy, structured content, on-page optimization.
 </table>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <img src="assets/line.svg" width="100%" alt="" />
 </p>
 
 ## Stack
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, WordPress, PHP, LLM APIs, SEO, Automation, Shopify" />
+  <img src="assets/marquee.svg" width="100%" alt="Python, TypeScript, React, Next.js, WordPress, PHP, LLM APIs, SEO, Automation, Shopify" />
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ copy, structured content, on-page optimization.
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <img src="assets/line.svg" width="100%" alt="" />
 </p>
 
 <p align="center">
