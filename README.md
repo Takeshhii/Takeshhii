@@ -4,9 +4,9 @@
 
 <p align="center">
 I work at the intersection of growth, AI and software. My background is in SEO<br/>
-and digital growth — technical audits, content systems, work with clients<br/>
-including in the US — and I've been moving into building the automation and<br/>
-AI systems that growth work increasingly runs on.
+and digital growth — from technical audits and content systems to international<br/>
+client work. Today I'm focused on building automation, AI-powered workflows and<br/>
+products that make growth work faster and more effective.
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@ AI systems that growth work increasingly runs on.
 
 ## What I work on
 
-- Automation systems that connect LLMs, APIs and content/publishing workflows
-- Technical SEO and SEO automation
-- Small products built and shipped end-to-end, not just prototyped
-- Currently building **AIRA**, an AI career-assistant product for students
+- AI and automation systems connecting LLMs, APIs and business workflows
+- Technical SEO, search systems and SEO automation
+- Products built and shipped end-to-end
+- Currently building **AIRA**, an AI career platform for students
 
 <p align="center">
   <img src="assets/line.svg" width="100%" alt="" />
@@ -30,10 +30,11 @@ AI systems that growth work increasingly runs on.
   <img src="assets/path.svg" width="100%" alt="2022–23 learning to build · 2024–25 commercial growth work · 2026 AI, automation, product" />
 </p>
 
-I started on this account in 2022 writing React SPAs as a student, spent the next
-couple of years doing commercial SEO and web work, and now build the automation
-and AI systems that sit underneath growth. The early projects are still public
-below — the trajectory matters more than pretending it started polished.
+I started on this account in 2022 building React SPAs as a student, spent the
+next couple of years working across commercial SEO and web projects, and now
+focus on the automation, AI and product systems behind modern growth. The early
+projects are still public below — the trajectory matters more than pretending it
+started polished.
 
 <p align="center">
   <img src="assets/line.svg" width="100%" alt="" />
@@ -47,8 +48,11 @@ below — the trajectory matters more than pretending it started polished.
 
 ### [AIRA →](https://student-aira.com)
 
-AI career-assistant product for students I'm building: a job-search dashboard
-with HH.ru integration, saved vacancies and application notes.
+AI career platform for students, combining job discovery, matching, application
+workflows and personalized career assistance.
+
+Started it because students are the group with the least leverage in hiring and
+the least time to spend on it.
 
 `Live product` · `source not public yet`
 
@@ -57,11 +61,14 @@ with HH.ru integration, saved vacancies and application notes.
 
 ### [ai-wordpress-publisher →](https://github.com/Takeshhii/ai-wordpress-publisher)
 
-LLM content pipeline that generates and auto-publishes SEO articles to
-WordPress on a controlled schedule. Runs the content side of AIRA and an
-NFC-products business off one config.
+LLM content pipeline that turns keyword briefs into SEO articles and publishes
+them to WordPress on a controlled schedule.
 
-`Python` · `Claude CLI` · `WordPress REST API`
+Built to keep several content properties running without a content team.
+Currently powers automated content workflows for AIRA and an NFC products
+business from a shared configuration.
+
+`Python` · `LLM APIs` · `WordPress REST API`
 
 </td>
 </tr>
@@ -70,8 +77,11 @@ NFC-products business off one config.
 
 ### [bottle-label-studio →](https://github.com/Takeshhii/bottle-label-studio)
 
-Browser tool that composites product labels onto bottle photos with
-physically-based warp and shading, replacing manual reshoots.
+Browser tool for compositing product labels onto bottle photos with
+perspective-aware warping and realistic shading.
+
+Turns a label design into a usable product image in seconds, reducing manual
+mockup work per design variant.
 
 `React` · `TypeScript` · `PixiJS`
 
@@ -80,8 +90,11 @@ physically-based warp and shading, replacing manual reshoots.
 
 ### [nfc-msk-theme →](https://github.com/Takeshhii/nfc-msk-theme)
 
-Custom WordPress theme with technical SEO infrastructure built in
-(redirects, indexation control) for an NFC-products business I run.
+Custom WordPress theme with built-in technical SEO infrastructure, including
+redirect management and indexing controls, for an NFC products business I run.
+
+Replaced a purchased theme that made search-level control harder than it needed
+to be.
 
 `PHP` · `WordPress` · `technical SEO`
 
@@ -92,8 +105,8 @@ Custom WordPress theme with technical SEO infrastructure built in
 
 ### [conversion-collective →](https://github.com/Takeshhii/conversion-collective)
 
-Conversion-focused site built for a B2B sales-consulting business — dark,
-editorial, built around one booking flow.
+Conversion-focused website for a B2B sales consulting business, structured
+around a single primary acquisition and booking flow.
 
 `HTML/CSS/JS` · `analytics`
 
@@ -102,19 +115,20 @@ editorial, built around one booking flow.
 
 ### [ZHIVA →](https://zhivajewelry.com)
 
-Live Shopify jewelry store; I handle SEO and content — product/collection
-copy, structured content, on-page optimization.
+Live Shopify jewelry business where I work on organic growth, SEO architecture
+and content across products and collections.
 
-`Shopify` · `SEO` · `content`
+`Shopify` · `SEO` · `growth`
 
 </td>
 </tr>
 </table>
 
-### Earlier work (2023, archived)
-
-- **[bike-theft-tracker](https://github.com/Takeshhii/bike-theft-tracker)** — React SPA for logging bike-theft cases: JWT auth, role-based access, REST API integration. First project I built against a real authenticated API.
-- **[kanban-board](https://github.com/Takeshhii/kanban-board)** — React task board, four workflow columns, per-task routing, `localStorage` persistence. Where component decomposition and lifted state clicked for me.
+**Earlier work (2023, archived):**
+[bike-theft-tracker](https://github.com/Takeshhii/bike-theft-tracker) — React SPA
+with JWT auth, role-based access and REST API integration ·
+[kanban-board](https://github.com/Takeshhii/kanban-board) — React task board with
+per-task routing and local persistence.
 
 <p align="center">
   <img src="assets/line.svg" width="100%" alt="" />
@@ -123,66 +137,18 @@ copy, structured content, on-page optimization.
 ## Stack
 
 <p align="center">
-  <img src="assets/marquee.svg" width="100%" alt="Python, TypeScript, React, Next.js, WordPress, PHP, LLM APIs, SEO, Automation, Shopify" />
+  <img src="assets/stack-strip.svg" width="100%" alt="Python, TypeScript, React, Next.js, REST APIs, LLM APIs, WordPress, PHP, Shopify, SEO, Automation" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,wordpress,php,postgres,git&theme=dark" alt="Stack icons" />
-</p>
-
-<p align="center">
-  <img src="assets/line.svg" width="100%" alt="" />
-</p>
-
-<p align="center">
-  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F3D2E?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;
-  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-13291F?style=for-the-badge&logo=gmail&logoColor=D4AF6A" alt="Email"/></a>&nbsp;
-  <a href="https://t.me/natemeadmin"><img src="https://img.shields.io/badge/Telegram-13291F?style=for-the-badge&logo=telegram&logoColor=D4AF6A" alt="Telegram"/></a>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,wordpress,php,git&theme=dark" alt="Stack icons" />
 </p>
 
 <p align="center">
   <img src="assets/line.svg" width="100%" alt="" />
 </p>
 
-<h2 align="center">На русском</h2>
-
 <p align="center">
-Работаю на стыке growth, AI и разработки. Мой бэкграунд — SEO и digital-рост:<br/>
-технические аудиты, контентные системы, работа с клиентами, в том числе из США.<br/>
-Сейчас двигаюсь в сторону построения автоматизаций и AI-систем,<br/>
-на которых всё больше держится growth-работа.
+  <a href="https://takeshhii.github.io/artem-portfolio/"><img src="https://img.shields.io/badge/Website-0F3D2E?style=for-the-badge&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="mailto:tarasovao2005@gmail.com"><img src="https://img.shields.io/badge/Email-13291F?style=for-the-badge&logo=gmail&logoColor=D4AF6A" alt="Email"/></a>
 </p>
-
-### Чем занимаюсь
-
-- Системы автоматизации, связывающие LLM, API и контентные/публикационные процессы
-- Технический SEO и автоматизация SEO
-- Небольшие продукты, доведённые до конца, а не только до прототипа
-- Сейчас строю **AIRA** — AI-ассистента по карьере для студентов
-
-### Как я к этому пришёл
-
-Начал на этом аккаунте в 2022-м, писал SPA на React, будучи студентом; следующие
-пару лет занимался коммерческим SEO и веб-разработкой; сейчас строю
-автоматизации и AI-системы, которые лежат в основе growth. Ранние проекты
-по-прежнему открыты ниже — траектория важнее, чем вид, будто всё началось сразу
-отполированным.
-
-### Проекты
-
-- **[AIRA](https://student-aira.com)** — AI-ассистент по карьере для студентов, который я делаю: кабинет поиска работы с интеграцией HH.ru, сохранёнными вакансиями и заметками по откликам. Живой продукт, исходники пока закрыты.
-- **[ai-wordpress-publisher](https://github.com/Takeshhii/ai-wordpress-publisher)** — LLM-конвейер контента: генерирует и автоматически публикует SEO-статьи в WordPress по контролируемому расписанию. Ведёт контент AIRA и бизнеса NFC-товаров из одного конфига.
-- **[bottle-label-studio](https://github.com/Takeshhii/bottle-label-studio)** — браузерный инструмент, накладывающий этикетки на фото бутылок с физически правдоподобным искажением и затенением, вместо ручной пересъёмки.
-- **[nfc-msk-theme](https://github.com/Takeshhii/nfc-msk-theme)** — своя тема WordPress со встроенной технической SEO-инфраструктурой (редиректы, контроль индексации) для моего бизнеса NFC-товаров.
-- **[conversion-collective](https://github.com/Takeshhii/conversion-collective)** — сайт под конверсию для B2B-консалтинга по продажам: тёмный, редакторский, построен вокруг одного пути записи.
-- **[ZHIVA](https://zhivajewelry.com)** — живой ювелирный магазин на Shopify; веду SEO и контент — тексты товаров и коллекций, структурный контент, on-page оптимизация.
-
-**Ранние работы (2023, архив):**
-
-- **[bike-theft-tracker](https://github.com/Takeshhii/bike-theft-tracker)** — SPA на React для учёта случаев кражи велосипедов: JWT-авторизация, ролевой доступ, интеграция с REST API. Первый проект, который я делал против настоящего API с авторизацией.
-- **[kanban-board](https://github.com/Takeshhii/kanban-board)** — доска задач на React: четыре колонки, роутинг по задачам, сохранение в `localStorage`. Проект, на котором у меня сложилось понимание декомпозиции и подъёма состояния.
-
-### Стек
-
-Python · TypeScript / JavaScript · React · Next.js · WordPress / PHP · LLM API ·
-автоматизация процессов
