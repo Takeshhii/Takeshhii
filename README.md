@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/photo.jpg" width="110" alt="Artem" />
-</p>
-
-<p align="center">
 I work at the intersection of growth, AI and software. My background is in SEO<br/>
 and digital growth — technical audits, content systems, work with clients<br/>
 including in the US — and I've been moving into building the automation and<br/>
