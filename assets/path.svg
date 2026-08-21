@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="box"><rect x="0" y="0" width="900" height="180" rx="16"/></clipPath>
+    <linearGradient id="track" gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="830" y2="0">
+      <stop offset="0%" stop-color="#2FA57E" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D4AF6A"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#box)">
+    <rect x="0" y="0" width="900" height="180" fill="#0A231B"/>
+
+    <!-- the track -->
+    <line x1="70" y1="92" x2="830" y2="92" stroke="#16352A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="70" y1="92" x2="830" y2="92" stroke="url(#track)" stroke-width="3" stroke-linecap="round"
+      stroke-dasharray="760" stroke-dashoffset="760">
+      <animate attributeName="stroke-dashoffset" from="760" to="0" dur="2.4s" begin="0.3s" fill="freeze"/>
+    </line>
+
+    <!-- travelling spark -->
+    <circle r="4" fill="#D4AF6A" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="70;830" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="92;92" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- 2022–23 -->
+    <g>
+      <circle cx="140" cy="92" r="9" fill="#0A231B" stroke="#2FA57E" stroke-width="2.5" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.6s" fill="freeze"/>
+      </circle>
+      <circle cx="140" cy="92" r="3.5" fill="#2FA57E" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze"/>
+      </circle>
+      <text x="140" y="58" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="17" fill="#D4AF6A" opacity="0">
+        2022–23
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
+      </text>
+      <text x="140" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#EAF2ED" opacity="0">
+        Learning to build
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.9s" fill="freeze"/>
+      </text>
+      <text x="140" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#7E9689" opacity="0">
+        React · SPAs · REST APIs
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- 2024–25 -->
+    <g>
+      <circle cx="450" cy="92" r="9" fill="#0A231B" stroke="#4FBF96" stroke-width="2.5" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.4s" fill="freeze"/>
+      </circle>
+      <circle cx="450" cy="92" r="3.5" fill="#4FBF96" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze"/>
+      </circle>
+      <text x="450" y="58" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="17" fill="#D4AF6A" opacity="0">
+        2024–25
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+      </text>
+      <text x="450" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#EAF2ED" opacity="0">
+        Commercial growth work
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.7s" fill="freeze"/>
+      </text>
+      <text x="450" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#7E9689" opacity="0">
+        SEO · sites · clients incl. US
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.8s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- 2026 -->
+    <g>
+      <circle cx="760" cy="92" r="11" fill="none" stroke="#D4AF6A" stroke-width="1.5" opacity="0.5">
+        <animate attributeName="r" values="10;16;10" dur="2.8s" begin="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0;0.5" dur="2.8s" begin="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="760" cy="92" r="9" fill="#0A231B" stroke="#D4AF6A" stroke-width="2.5" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.2s" fill="freeze"/>
+      </circle>
+      <circle cx="760" cy="92" r="4" fill="#D4AF6A" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.4s" fill="freeze"/>
+      </circle>
+      <text x="760" y="58" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="17" fill="#D4AF6A" opacity="0">
+        2026
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.3s" fill="freeze"/>
+      </text>
+      <text x="760" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#EAF2ED" opacity="0">
+        AI, automation, product
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze"/>
+      </text>
+      <text x="760" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#7E9689" opacity="0">
+        LLM pipelines · AIRA
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.6s" fill="freeze"/>
+      </text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="179" rx="16" fill="none" stroke="#1E3B31"/>
+</svg>
