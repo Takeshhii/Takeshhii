@@ -116,7 +116,7 @@
       <animate attributeName="stroke-dashoffset" from="360" to="0" dur="5s" repeatCount="indefinite"/>
     </line>
 
-    <text x="66" y="214" font-family="Arial, sans-serif" font-size="15" fill="#9FB3A8">Moscow · Financial University · Business Informatics</text>
+    <text x="66" y="214" font-family="Arial, sans-serif" font-size="15" fill="#9FB3A8">Phuket · Working internationally · Business Informatics</text>
   </g>
 
   <rect x="1" y="1" width="898" height="248" rx="19" fill="none" stroke="url(#border)" stroke-width="1.6"/>

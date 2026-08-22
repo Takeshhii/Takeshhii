@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Artem Tarasov — AI Growth, Automation & Product" />
+  <img src="assets/hero-v2.svg" width="100%" alt="Artem Tarasov — AI Growth, Automation & Product" />
 </p>
 
 <p align="center">
@@ -103,10 +103,11 @@ to be.
 <tr>
 <td width="50%" valign="top">
 
-### [conversion-collective →](https://github.com/Takeshhii/conversion-collective)
+### [Conversion Collective →](https://convertcollective.com)
 
-Conversion-focused website for a B2B sales consulting business, structured
-around a single primary acquisition and booking flow.
+Live site for a B2B revenue and sales-systems consultancy, structured around a
+single primary acquisition and booking flow.
+[Source](https://github.com/Takeshhii/conversion-collective)
 
 `HTML/CSS/JS` · `analytics`
 
