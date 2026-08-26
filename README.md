@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/face-ascii.svg" width="360" alt="ASCII portrait of Artem Tarasov" />
+</p>
+
+<p align="center">
 I work at the intersection of growth, AI and software. My background is in SEO<br/>
 and digital growth — from technical audits and content systems to international<br/>
 client work. Today I'm focused on building automation, AI-powered workflows and<br/>
@@ -35,6 +39,9 @@ next couple of years working across commercial SEO and web projects, and now
 focus on the automation, AI and product systems behind modern growth. The early
 projects are still public below — the trajectory matters more than pretending it
 started polished.
+
+I'm currently studying Business Informatics at the Financial University in
+Moscow, where AIRA is part of the university's Business Incubator program.
 
 <p align="center">
   <img src="assets/line.svg" width="100%" alt="" />
@@ -122,6 +129,22 @@ and content across products and collections.
 `Shopify` · `SEO` · `growth`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ШЛЮЗ →](https://github.com/Takeshhii/shlyuz)
+
+Browser horror game about checking documents at an airlock 340 meters down.
+Six shifts, four endings, all audio synthesized live at runtime.
+
+Built solo as a break from client work — same discipline of shipping a
+complete system, applied to something with no deadline but my own.
+
+`TypeScript` · `Vite` · `Web Audio API`
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
