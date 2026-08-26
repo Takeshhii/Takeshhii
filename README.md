@@ -133,10 +133,11 @@ and content across products and collections.
 <tr>
 <td width="50%" valign="top">
 
-### [ШЛЮЗ →](https://github.com/Takeshhii/shlyuz)
+### [ШЛЮЗ →](https://dulcet-gnome-4fb2f6.netlify.app/)
 
 Browser horror game about checking documents at an airlock 340 meters down.
 Six shifts, four endings, all audio synthesized live at runtime.
+[Source](https://github.com/Takeshhii/shlyuz)
 
 Built solo as a break from client work — same discipline of shipping a
 complete system, applied to something with no deadline but my own.
